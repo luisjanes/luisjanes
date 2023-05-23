@@ -1,8 +1,8 @@
 ### Olá, pessoal 👋
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 🤔 I’m looking for help with NODE, React, Vue...
-- 💬 Ask me about Basic Front-end stuff
+- 🌱 I’m currently learning C# and .NET
+- 🤔 I’m looking for help with...
+- 💬 Ask me about Basic Back-end stuff
 <ul type="square"> 
 <p>📫 How to reach me:</p>
 <li>🐦<a href="https://twitter.com/_luisjanes" target="_blank" rel="external">Twitter</a> - Follow me on twitter!</li>
