@@ -4,19 +4,18 @@
 - 🤔 I’m looking for help with...
 - 💬 Ask me about Basic Back-end stuff
 <ul type="square"> 
-<p>📫 How to reach me:</p>
-<li>🐦<a href="https://twitter.com/_luisjanes" target="_blank" rel="external">Twitter</a> - Follow me on twitter!</li>
-<li>🤳🏼<a href="https://www.instagram.com/luisjanes/" target="_blank" rel="external">Intagram</a> - Give me a like!</li>
-<li>🎥<a href="https://www.twitch.tv/tiltanes" target="_blank" rel="external">Twitch</a> - Watch me when live!</li>
-</ul>
--->
+### Olá, pessoal 👋
+  
+- 🌱 Estou estudando C# and .NET
+- 🤔 Preciso de ajuda com C#
+- 💬 ME pergunte sobre coisas básicas de back-end e front-end
 <div>
 <img src="https://user-images.githubusercontent.com/56122093/176306223-c5b1a3c1-18c8-40da-ab38-408733ff264c.png" height="20" width="20")
 <div>   
   
 - 🌱 I’m currently learning C# and .NET
-- 🤔 I’m looking for help with...
-- 💬 Ask me about Basic Back-end stuff
+- 🤔 I’m looking for help with C#
+- 💬 Ask me about Basic Back-end and front-end stuff
 
 <div align="center">
   <a href="https://github.com/luisjanes">
@@ -26,7 +25,6 @@
 
  <div style="display: inline_block"><br>
    
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="janes-CSharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="janes-dotNet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="janes-dotNetCore" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
