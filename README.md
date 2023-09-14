@@ -1,9 +1,3 @@
-<--### Olá, pessoal 👋
-
-- 🌱 I’m currently learning C# and .NET
-- 🤔 I’m looking for help with...
-- 💬 Ask me about Basic Back-end stuff
-<ul type="square"> 
 ### Olá, pessoal 👋
   
 - 🌱 Estou estudando C# and .NET
@@ -34,7 +28,7 @@
 ###
   
 <div>
-  <a href="https://www.linkedin.com/in/luisfelipejanes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-felipe-janes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/tiltanes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:luisf.janes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
