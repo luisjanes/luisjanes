@@ -1,13 +1,13 @@
 ### Olá, pessoal 👋
   
-- 🌱 Estou estudando C# and .NET
+- 🌱 Estou estudando C#, .NET e JavaScript
 - 🤔 Preciso de ajuda com C#
 - 💬 ME pergunte sobre coisas básicas de back-end e front-end
 <div>
 <img src="https://user-images.githubusercontent.com/56122093/176306223-c5b1a3c1-18c8-40da-ab38-408733ff264c.png" height="20" width="20")
 <div>   
   
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning C#, .NET and JavaScript
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about Basic Back-end and front-end stuff
 
