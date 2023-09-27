@@ -2,7 +2,7 @@
   
 - 🌱 Estou estudando C#, .NET e JavaScript
 - 🤔 Preciso de ajuda com C#
-- 💬 ME pergunte sobre coisas básicas de back-end e front-end
+- 💬 Me pergunte sobre coisas básicas de back-end e front-end
 <div>
 <img src="https://user-images.githubusercontent.com/56122093/176306223-c5b1a3c1-18c8-40da-ab38-408733ff264c.png" height="20" width="20")
 <div>   
